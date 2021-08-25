@@ -1,0 +1,11 @@
+name = "Soothing Water";
+picture = "water_drop.paa";
+actionName = "GitHub";
+action = "";
+description = "Soothing Water - Version 1.0";
+logo = "water_drop.paa";
+logoOver = "water_drop.paa";
+tooltip = "Soothing Water";
+overview = "Soothing Water - Soothe your wounds by taking a relaxing bath";
+author = "Hypoxic";
+overviewPicture = "water_drop.paa";
